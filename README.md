@@ -1,5 +1,6 @@
 # HR-Dashboard
-![powerBI Image](https://github.com/RaphaelAfridata/HR-Dashboard/assets/163150520/4539b197-1b1a-4da9-a1b2-f060f2e81357)
+
+![lastest screenshot](https://github.com/RaphaelAfridata/HR-Dashboard/assets/163150520/39b7bc83-25db-467e-a9a8-a94fae6c0b85)
 
 
 ## Data Used 
